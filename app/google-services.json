@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86537142142",
+    "project_id": "day4app-2c065",
+    "storage_bucket": "day4app-2c065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86537142142:android:db91c0ffc771d860027d2f",
+        "android_client_info": {
+          "package_name": "com.example.day4app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86537142142-ikv54cogjs8r5d63a87om9at0j1f2okf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8l8ACX4LoXgPb3P9Z0ZNEborHYHyj01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86537142142-ikv54cogjs8r5d63a87om9at0j1f2okf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
